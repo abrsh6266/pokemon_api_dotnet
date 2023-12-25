@@ -103,3 +103,4 @@ C:\Users\Abrham\Documents\vs code\dot net\PokemonApi\bin\Debug\net8.0\ru\Microso
 C:\Users\Abrham\Documents\vs code\dot net\PokemonApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Abrham\Documents\vs code\dot net\PokemonApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Abrham\Documents\vs code\dot net\PokemonApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abrham\Documents\vs code\dot net\PokemonApi\obj\Debug\net8.0\PokemonApi.sourcelink.json
